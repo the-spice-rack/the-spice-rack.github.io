@@ -13,26 +13,26 @@
         </header>
         <div id="articles">
             <div id="articles-major">
-                {% for article in site.tags.major %}
-                    <a href="{{ article.url }}">
-                        {% if article.image %}
-                            <img src="{{ article.image }}">
-                        {% endif %}
-                        <h2>{{ article.title }}</h2>
-                        {{ article.excerpt }}
+                {%- for article in site.tags.major -%}
+                    <a href="{{- article.url -}}">
+                        {%- if article.image -%}
+                            <img src="{{- article.image -}}">
+                        {%- endif -%}
+                        <h2>{{- article.title -}}</h2>
+                        {{- article.excerpt -}}
                     </a>
-                {% endfor %}
+                {%- endfor -%}
             </div>
             <div id="articles-minor">
-                {% for article in site.tags.minor %}
-                    <a href="{{ article.url }}">
-                        {% if article.image %}
-                            <img src="{{ article.image }}">
-                        {% endif %}
-                        <h2>{{ article.title }}</h2>
-                        {{ article.excerpt }}
+                {%- for article in site.tags.minor -%}
+                    <a href="{{- article.url -}}">
+                        {%- if article.image -%}
+                            <img src="{{- article.image -}}">
+                        {%- endif -%}
+                        <h2>{{- article.title -}}</h2>
+                        {{- article.excerpt -}}
                     </a>
-                {% endfor %}
+                {%- endfor -%}
             </div>
         </div>
     </body>

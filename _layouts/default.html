@@ -2,12 +2,11 @@
 <html lang="en">
     <head>
         <meta charset="utf-8">
-        <title>{{ page.title }}</title>
+        <title>{{- page.title -}}</title>
         <link rel="stylesheet" href="/style.css">
     </head>
     <body>
-        <!-- smaller spice rack wordmark -->
-        <h2>{{ page.title }}</h2>
-        {{ content }}
+        <h2>{{- page.title -}}</h2>
+        {{- content -}}
     </body>
 </html>

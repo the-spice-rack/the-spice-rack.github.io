@@ -13,10 +13,10 @@
         </header>
         <h2>Article Archive<h2>
         <div id="articles">
-            {% for article in site.posts %}
-            <a href="{{ article.url }}">{{ article.title }} ({{ article.date |
-                date_to_string }})</a>
-            {% endfor %}
+            {%- for article in site.posts -%}
+            <a href="{{- article.url -}}">{{- article.title -}} ({{-
+                article.date | date_to_string -}})</a>
+            {%- endfor -%}
         </div>
     </body>
 </html>
