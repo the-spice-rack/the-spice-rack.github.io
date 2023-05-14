@@ -1,3 +1,78 @@
 ---
 ---
+@font-face
+    font-family: "DMSD"
+    src: url("/DMSerifDisplay.ttf") format ("truetype")
+
+*
+    margin: 0
+    padding: 0
+    color: #222
+
+h1, h2, h3
+    font-family: DM
+    line-height: 100%
+
+header > h1 // the title
+  text-align: center
+  font-size: 100px
+  text-transform: uppercase
+
+div#articles
+    display: flex
+    width: 80%
+    margin: 0 auto
+
+    h3
+        margin-bottom: 8px
+    > div
+        display: flex
+        flex-direction: column
+    a
+        color: inherit
+        text-decoration: none
+        margin: 8px 8px 0 8px
+        padding-bottom: 8px
+        border-bottom: 1px solid #888
+        
+        &:hover h3
+            color: #444
+    img
+        float: right
+        width: 50%
+
+div#articles-major
+    width: 67%
+    border-right: 1px solid #888
+
+    h3
+        font-size: 60px
+    p
+        font-size: 20px
+
+div#articles-minor
+    width: 33%
+
+    h3
+        font-size: 30px
+    p
+        font-size: 18px
+
+h2#pagetitle
+    text-align: center
+    font-size: 40px
+    padding: 8px
+
+table#archive
+    margin: 20px auto
+    font-size: 20px
+
+    td
+        padding: 4px
+    a
+        display: block
+        width: 100%
+        text-decoration: none
+        &:hover
+            color: #666
 
