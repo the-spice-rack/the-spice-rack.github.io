@@ -1,39 +1,31 @@
 ---
+layout:
 ---
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <title>The Spice Rack</title>
-        <link rel="stylesheet" href="/style.css">
-    </head>
-    <body>
-        <header>
-            <h1>The Spice Rack</h1>
-        </header>
-        <div id="articles">
-            <div id="articles-major">
-                {%- for article in site.tags.major -%}
-                    <a href="{{- article.url -}}">
-                        {%- if article.image -%}
-                            <img src="{{- article.image -}}">
-                        {%- endif -%}
-                        <h3>{{- article.title -}}</h3>
-                        {{- article.excerpt -}}
-                    </a>
-                {%- endfor -%}
-            </div>
-            <div id="articles-minor">
-                {%- for article in site.tags.minor -%}
-                    <a href="{{- article.url -}}">
-                        {%- if article.image -%}
-                            <img src="{{- article.image -}}">
-                        {%- endif -%}
-                        <h3>{{- article.title -}}</h3>
-                        {{- article.excerpt -}}
-                    </a>
-                {%- endfor -%}
-            </div>
-        </div>
-    </body>
-</html>
+{%- include header.html -%}
+<header id="big">{%- include logo.svg -%}
+</header>
+<div id="articles">
+    <div id="articles-major">
+        {%- for article in site.tags.major -%}
+            <a href="{{- article.url -}}">
+                {%- if article.image -%}
+                    <img src="{{- article.image -}}">
+                {%- endif -%}
+                <h3>{{- article.title -}}</h3>
+                {{- article.excerpt -}}
+            </a>
+        {%- endfor -%}
+    </div>
+    <div id="articles-minor">
+        {%- for article in site.tags.minor -%}
+            <a href="{{- article.url -}}">
+                {%- if article.image -%}
+                    <img src="{{- article.image -}}">
+                {%- endif -%}
+                <h3>{{- article.title -}}</h3>
+                {{- article.excerpt -}}
+            </a>
+        {%- endfor -%}
+    </div>
+</div>
+{%- include footer.html -%}
