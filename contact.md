@@ -2,8 +2,8 @@
 title: Contact
 ---
 
-If you have concerns, would like to get in touch, or to submit an article,
-please email [editor@unfocused.page](mailto:editor@unfocused.page).
+*Unfocused* has not yet launched, and as such is not, as yet,
+accepting submissions. We will make it known when we do.
 
-You may open issues on our
+We would appreciate issues (technical or content-related) on our
 [GitHub page](https://github.com/unfocused-newspaper/unfocused-newspaper.github.io).
