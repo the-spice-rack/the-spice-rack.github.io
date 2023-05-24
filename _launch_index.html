@@ -1,0 +1,31 @@
+---
+layout:
+---
+{%- include header.html -%}
+<header id="big">{%- include logo.svg -%}
+</header>
+<div id="articles">
+    <div id="articles-major">
+        {%- for article in site.tags.major -%}
+            <a href="{{- article.url -}}">
+                {%- if article.image -%}
+                    <img src="{{- article.image -}}">
+                {%- endif -%}
+                <h3>{{- article.title -}}</h3>
+                {{- article.excerpt -}}
+            </a>
+        {%- endfor -%}
+    </div>
+    <div id="articles-minor">
+        {%- for article in site.tags.minor -%}
+            <a href="{{- article.url -}}">
+                {%- if article.image -%}
+                    <img src="{{- article.image -}}">
+                {%- endif -%}
+                <h3>{{- article.title -}}</h3>
+                {{- article.excerpt -}}
+            </a>
+        {%- endfor -%}
+    </div>
+</div>
+{%- include footer.html -%}
