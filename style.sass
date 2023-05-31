@@ -1,5 +1,8 @@
 ---
 ---
+
+$red: #96031A
+
 @font-face
     font-family: "DM"
     src: url("DMSerifDisplay.ttf") format("truetype")
@@ -43,7 +46,14 @@ div#articles
             color: #444
     img
         float: right
-        width: 50%
+        width: 35%
+        margin: 8px
+    span
+        display: block
+        text-align: right
+        text-transform: uppercase
+        font-style: italic
+        font-size: 14px
 
 div#articles-major
     width: 67%
@@ -94,6 +104,19 @@ article
         padding: 20px 5%
         line-height: 120%
 
+    p.author
+        display: block
+        text-align: right
+        text-transform: uppercase
+        font-style: italic
+        > span
+            color: $red
+
+    img
+        width: 70%
+        margin: 24px auto
+        display: block
+
 nav
     display: flex
     justify-content: center
@@ -107,4 +130,4 @@ nav
         text-transform: uppercase
         font-weight: bold
         &:hover
-            color: #96031A
+            color: $red
