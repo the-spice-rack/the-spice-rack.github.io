@@ -7,3 +7,5 @@ defaults:
 
 sass:
   style: compressed
+
+timezone: Australia/Hobart
