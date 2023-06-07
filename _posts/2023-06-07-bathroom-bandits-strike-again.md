@@ -31,5 +31,5 @@ guiding light, illuminating that of good in a chaotic world.
 
 ### Update
 
-After seeing this article, Adam Chambers said that "the bathrooms are fine" and
-he just forgot to unlock them this morning. Stay safe out there.
+Undercover *Unfocused* journalists uncovered that the bathrooms are fine and
+Adam simply forgot to unlock them this morning. Stay safe out there.
