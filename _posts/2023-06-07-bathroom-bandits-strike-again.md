@@ -17,7 +17,7 @@ group of students digging a tunnel to escape Adam's grasp? Were a satanic cult
 operating in the stall with no toilet paper? Was it hiding the offices of your
 favourite student newspaper? At this stage, nobody knows.
 
-"Who's done this! For fucks' sake!" said a student who wished to remain
+"Who's done this! For fucks' sake!" said a student, who wished to remain
 anonymous, after making the trek back from the Farrall Centre bathrooms.
 
 It's currently unclear whether the most recent attack on the bathrooms will lead
