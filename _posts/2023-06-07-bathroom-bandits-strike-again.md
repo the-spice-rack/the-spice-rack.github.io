@@ -1,5 +1,5 @@
 ---
-title: BATHROOM BANDITS STRIKE AGAIN
+title: Bathroom Bandits Strike Again
 tags: major
 author: Blain Stone & Matty Gruber
 author_role: Co-Editors
