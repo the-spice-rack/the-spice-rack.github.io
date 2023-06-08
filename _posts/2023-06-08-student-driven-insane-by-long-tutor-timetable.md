@@ -1,5 +1,5 @@
 ---
-title: Student Driven Insane by Long-Tutor Timetable. 
+title: Student Driven Insane by Long-Tutor Timetable
 tags: minor
 excerpt: Madness from esoteric, forbidden, incomprehensible knowledge, doctors say. 
 author: Monsieur de Sirloin
