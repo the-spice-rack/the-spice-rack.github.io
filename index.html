@@ -8,14 +8,18 @@ layout:
     <div id="articles-major">
         {%- for article in site.tags.major -%}
             <a href="{{- article.url -}}">
+                <div>
+                    <h3>{{- article.title -}}</h3>
+                    <p>{{- article.excerpt -}}</p>
+                </div>
+                <div>
                 {%- if article.image -%}
                     <img src="/images/{{- article.image -}}">
                 {%- endif -%}
-                <h3>{{- article.title -}}</h3>
-                {{- article.excerpt -}}
                 {%- if article.author -%}
                     <br><span>{{- article.author -}}</span>
                 {%- endif -%}
+                </div>
             </a>
         {%- endfor -%}
     </div>
