@@ -16,7 +16,7 @@ Chaos ensued, with many gathering around the laptop to witness the moment, seen 
 The ruckus could be heard from the *Unfocused* offices, with office intern Harvey Lonergan-Sykes sent to ensure the noise was not the explosion of our printing presses. 
 
 
-It is understood the King’s Birthday public holiday has been renamed to commemorate the occasion , with many planning illegal fireworks and raging warehouse parties over the long weekend. 
+It is understood the King’s Birthday public holiday has been renamed to commemorate the occasion, with many planning illegal fireworks and raging warehouse parties over the long weekend. 
 
 
 The Friends Union of Clemes Control and Internet Technology  (FUCC IT) are extremely pissed off, with senior management involved to rectify the blunder. *Unfocused* is aware of ongoing discussions with IT staff as to how this could have possibly happened, with whispers of layoffs increasing. We understand that The Friends’ Schools’ Director of Money, Opulence, Overcharging, Laundering, and Hedge-funds (MOOLAH) was awoken from their eternal slumber to authorise an outgoing payment concerning matters other than marimbas and rowing, a full ride scholarship to Yvette on the basis of technological wizardry. 
