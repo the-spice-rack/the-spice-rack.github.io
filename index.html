@@ -17,7 +17,7 @@ layout:
                     <img src="/images/{{- article.image -}}">
                 {%- endif -%}
                 {%- if article.author -%}
-                    <br><span>{{- article.author -}}</span>
+                    <p class="author">{{- article.author -}}</p>
                 {%- endif -%}
                 </div>
             </a>
@@ -30,9 +30,9 @@ layout:
                     <img src="/images/{{- article.image -}}">
                 {%- endif -%}
                 <h3>{{- article.title -}}</h3>
-                {{- article.excerpt -}}
+                <p>{{- article.excerpt -}}</p>
                 {%- if article.author -%}
-                <br><span class="author">{{- article.author -}}</span>
+                    <p class="author">{{- article.author -}}</p>
                 {%- endif -%}
             </a>
         {%- endfor -%}
