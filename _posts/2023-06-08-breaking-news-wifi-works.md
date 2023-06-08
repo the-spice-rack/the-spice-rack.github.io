@@ -26,12 +26,3 @@ As a result of the unexpected payment, the school is expected to launch another 
 
 
 We did attempt to get in touch with students over video link, however most reported issues with internet connectivity or dropped out mid meeting. 
-
-
--
-
-
-Remember to sign up to our newsletter for your weekly news wrap up. Click the subscribe tab above. 
-
-
-
