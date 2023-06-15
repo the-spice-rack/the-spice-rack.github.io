@@ -3,6 +3,7 @@ title: <i>Unfocused</i> Editors Apologise for Failing to Publish
 author: Blain Stone
 author_role: Co-Editor
 tags: major
+excerpt: We'll be back soon.
 ---
 
 The editors of the world's premiere newspaper would like to apologise for not
