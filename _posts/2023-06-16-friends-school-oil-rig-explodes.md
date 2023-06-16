@@ -9,9 +9,8 @@ image: oil_spill.jpg
 
 The rig, dubbed *Peacewater Horizon*, exploded last night, leaving oil flowing
 freely into the Indian Ocean.  The crew of *Peacewater Horizon* alerted the
-authorities to an fiery explosion last night at 11:50pm, with the fire still
+authorities to a fiery explosion last night at 11:50pm, with the fire still
 burning approximately 1000 nautical miles north west of Exmouth, between the
-
 Australian territories of Christmas Island and the Cocos and Keeling Islands.
 The crew have been rescued by the Mongolian coastguard, with it being understood
 that they are mostly ex-employees of the school serving on ‘leave’.
