@@ -2,7 +2,7 @@
 title: Mysterious Mushrooms In School Canteen 
 author: Matty Gruber
 author_role: Co-Editor
-excerpt: "Home-grown"
+excerpt: \"Home-grown\"
 tags: minor
 ---
 
@@ -15,4 +15,4 @@ eclectic and somewhat spacey foodie.
 No side-effects have yet been reported, however other shroom stories have
 emerged with evidence of psychedelic fungi found in the Peace Garden.
 
-More to comea.
+More to come.

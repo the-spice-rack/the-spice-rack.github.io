@@ -1,5 +1,5 @@
 ---
-title: Adam Chambers' Trade-in
+title: "Adam Chambers' Trade-in"
 author: Harvey Longergan-Sykes
 author_role: Junior Writer
 excerpt: Beats walkin.
@@ -13,4 +13,4 @@ in the staff carpark. His newfound appreciation for the Bushmaster led him to
 consider this as a purchase, however he could not quite afford the Australian
 model.
 
-![The Toyota Camry Hummer](images/car.webp)
+![The Toyota Camry Hummer](/images/car.webp)
