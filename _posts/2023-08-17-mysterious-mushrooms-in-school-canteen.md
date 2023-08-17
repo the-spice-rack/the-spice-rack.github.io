@@ -2,7 +2,7 @@
 title: Mysterious Mushrooms In School Canteen 
 author: Matty Gruber
 author_role: Co-Editor
-excerpt: \"Home-grown\"
+excerpt: "\"Home-grown\""
 tags: minor
 ---
 
