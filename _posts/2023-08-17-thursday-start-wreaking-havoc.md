@@ -1,7 +1,7 @@
 ---
 title: Thursday Start Wreaking Havoc
 author: Matty Gruber
-author_rule: Co-Editor
+author_role: Co-Editor
 excerpt: “A real kick up the ass,” confirms student.
 tags: minor
 ---
