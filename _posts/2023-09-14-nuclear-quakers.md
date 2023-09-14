@@ -1,8 +1,10 @@
 ---
 author: Matty Gruber
 author_role: Co-Editor
-tags: 
+tags: major
 title: Nuclear Quakers
+image: adamheimer.png
+excerpt: For self defence
 ---
 
 It today has been uncovered by *Unfocused* researcher Kylie van der Walt that
